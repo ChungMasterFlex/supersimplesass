@@ -1,7 +1,7 @@
 # Super Simple Sass
 Triple S - Super Simple Sass.  No more fumbling around with different open source projects to get your idea off the ground.
 
-Using:
+Using: <br />
 a. Stripe <br />
 b. Svelte + Svelte Kit <br />
 c. awS ;) <br />
