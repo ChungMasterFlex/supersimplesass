@@ -29,10 +29,17 @@ Using Typescript<br />
 Using Auth0<br />
 
 <br />
+APIs:<br />
 Using GraphQL<br />
+Using Lamda Function<br />
+Swagger<br />
+<br />
 
 <br />
+DB:<br />
 Using MongoDB<br />
+
+
 
 
 
