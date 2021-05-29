@@ -14,28 +14,25 @@ Using ACR (to store the Docker image) and ACS to deploy the Docker Container <br
 Let's talk integrations - some of the configuration will take into consideration things that are popular in the community.
 
 <br />
-Style:
-Using Tailwind
+Style:<br />
+Using Tailwind<br />
 
 <br />
-Local dev scripts/bundler:
-Using rollupjs
+Local dev scripts/bundler:<br />
+Using rollupjs<br />
 
 <br />
-Language:
-Using Typescript
+Language:<br />
+Using Typescript<br />
 
 <br />
-Using Auth0
+Using Auth0<br />
 
 <br />
-Using GraphQL
+Using GraphQL<br />
 
 <br />
-Using MongoDB
-
-
-
+Using MongoDB<br />
 
 
 
