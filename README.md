@@ -12,6 +12,11 @@ Using Docker to make things less configuration independent.<br />
 Using ACR (to store the Docker image) and ACS to deploy the Docker Container <br />
 
 <br />
+Domain registration/routing:<br />
+AWS: route 53<br />
+GoDaddy for the domain registration <br />
+
+<br />
 DevOps:<br />
 Github Actions will be used so that checkins with <code>main</code> will automatically deploy the updated docker to ACS.<br />
 
