@@ -12,6 +12,10 @@ Using Docker to make things less configuration independent.<br />
 Using ACR (to store the Docker image) and ACS to deploy the Docker Container <br />
 
 <br />
+DevOps:<br />
+Github Actions will be used so that checkins with <code>main</code> will automatically deploy the updated docker to ACS.
+
+<br />
 Style:<br />
 Using Tailwind<br />
 
