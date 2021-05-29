@@ -11,8 +11,6 @@ Deployment:<br />
 Using Docker to make things less configuration independent.<br />
 Using ACR (to store the Docker image) and ACS to deploy the Docker Container <br />
 
-Let's talk integrations - some of the configuration will take into consideration things that are popular in the community.
-
 <br />
 Style:<br />
 Using Tailwind<br />
@@ -26,6 +24,7 @@ Language:<br />
 Using Typescript<br />
 
 <br />
+Auth:
 Using Auth0<br />
 
 <br />
